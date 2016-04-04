@@ -1,0 +1,5 @@
+#exportPattern("^[[:alpha:]]+")
+export(run.SHLR.scan, read.shapeit.haps)
+import(stringr, geepack, Matrix, FactoMineR, kinship2, doParallel, foreach, MASS)
+importFrom("stats", "as.formula", "complete.cases","glm","anova","pchisq")
+importFrom("utils", "read.table", "write.table")

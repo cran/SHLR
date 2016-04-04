@@ -1,0 +1,7 @@
+ca36da1d7c7edbf417afc5439fae531a *DESCRIPTION
+790af9a5d7f27de56ea492dc92ef3230 *NAMESPACE
+b386a5529e599c3edcc46b56942c2669 *R/functions.R
+3f14521e2d644fa03935366233467a91 *inst/extdata/phased.haps
+174c376a269b10de00d013dc042565dd *inst/extdata/plink.fam
+cd54fb37c6603708d99ca9be63e0f6e2 *man/read.shapeit.haps.Rd
+383ea5e9a40ec9bb12dc0e60ef773de2 *man/run.SHLR.scan.Rd
